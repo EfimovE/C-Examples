@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\efimo\\OneDrive\\Рабочий стол\\studyC\\Examples\\Example01\\Example01.csproj": {}
+    "C:\\Users\\efimo\\OneDrive\\Рабочий стол\\studyC\\examples\\example01\\Example01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\efimo\\OneDrive\\Рабочий стол\\studyC\\Examples\\Example01\\Example01.csproj": {
+    "C:\\Users\\efimo\\OneDrive\\Рабочий стол\\studyC\\examples\\example01\\Example01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\efimo\\OneDrive\\Рабочий стол\\studyC\\Examples\\Example01\\Example01.csproj",
+        "projectUniqueName": "C:\\Users\\efimo\\OneDrive\\Рабочий стол\\studyC\\examples\\example01\\Example01.csproj",
         "projectName": "Example01",
-        "projectPath": "C:\\Users\\efimo\\OneDrive\\Рабочий стол\\studyC\\Examples\\Example01\\Example01.csproj",
+        "projectPath": "C:\\Users\\efimo\\OneDrive\\Рабочий стол\\studyC\\examples\\example01\\Example01.csproj",
         "packagesPath": "C:\\Users\\efimo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\efimo\\OneDrive\\Рабочий стол\\studyC\\Examples\\Example01\\obj\\",
+        "outputPath": "C:\\Users\\efimo\\OneDrive\\Рабочий стол\\studyC\\examples\\example01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\efimo\\AppData\\Roaming\\NuGet\\NuGet.Config"
